@@ -1,5 +1,5 @@
 {
-  "name": "fanli-cli",
+  "name": "@fanli/cli",
   "version": "1.0.0",
   "description": "Command line interface for create module files",
   "bin": {
