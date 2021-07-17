@@ -1,0 +1,24 @@
+{
+  "name": "fanli-cli",
+  "version": "1.0.0",
+  "description": "Command line interface for create module files",
+  "bin": {
+    "fanli": "./bin/fanli.js"
+  },
+  "keywords": [
+    "fanli-cli",
+    "简易脚手架"
+  ],
+  "author": "范蠡",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "ora": "^5.4.1"
+  }
+}
